@@ -15,7 +15,7 @@ export default class HolbertonCourse {
     this.students = students;
   }
 
-   /**
+  /**
    * Gets the name of this course.
    */
   get name() {
